@@ -20,5 +20,8 @@ main{
 
 }
 .passo{
-    display:block;
+    display:none;
+}
+.passo.ativo{
+    display: block;
 }
